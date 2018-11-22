@@ -1,6 +1,6 @@
 Angle1 Angle2 Angle3 Triangle Type
-80     80     20    YES      Isosceles
+80     80     20     YES      Isosceles
 100    20     60     YES      Scalene
-45     45     90    YES      Isosceles
+45     45     90     YES      Isosceles
 44     44     44     NO       NA
 60     60     60     YES      Equilateral
