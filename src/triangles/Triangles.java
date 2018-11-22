@@ -44,7 +44,7 @@ public class Triangles {
            if(angle1==60&&angle2==60&&angle3==60){
                PW.print("     YES      Equilateral\n");}
            else if(angle1==angle2||angle1==angle3||angle2==angle3&&angle1!=60){
-               PW.print("    YES      Isosceles\n");}
+               PW.print("     YES      Isosceles\n");}
            else if(angle1!=angle2&&angle2!=angle3&&angle1!=angle3){
                PW.print("     YES      Scalene\n");}
            }
